@@ -49,7 +49,7 @@ def handle_message(event):
 		r = 'Hi!'
 	elif msg == 'Have you had dinner yet?':
 		r = 'Not yet.'
-	elif msg == 'Who are you?'
+	elif msg == 'Who are you?':
 		r = 'I am a chat robot.'
 	elif 'Booking' in msg:
 		r = 'You wanna book a table, right?'
